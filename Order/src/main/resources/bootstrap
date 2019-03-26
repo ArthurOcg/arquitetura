@@ -1,2 +1,0 @@
-spring.application.name=mi-order
-spring.cloud.config.uri=http://localhost:9080

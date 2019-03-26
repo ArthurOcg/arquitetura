@@ -1,0 +1,6 @@
+spring:
+   application:
+      name: mi-eureka
+   cloud:
+      config:
+         uri:http://localhost:9080
