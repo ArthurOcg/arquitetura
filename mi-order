@@ -1,7 +1,0 @@
-server.port=9092
-    
-eureka.instance.hostname=localhost
-eureka.client.registerWithEureka=true
-eureka.client.fetchRegistry=false
-eureka.client.serviceUrl.defaultZone=http://localhost:${server.port}/eureka/
-eureka.client.server.wait-time-in-ms-when-sync-empty=3000
