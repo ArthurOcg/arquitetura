@@ -3,4 +3,4 @@ spring:
       name: mi-eureka
    cloud:
       config:
-         uri:http://localhost:9080
+         uri: http://localhost:9080
